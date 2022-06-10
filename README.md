@@ -1,6 +1,6 @@
 ### <b> Hello 👋 Welcome to my GitHub profile !! </b>
 
-Let me introduce you about myself, My name is Unknown: 999 Years Old from Earth. My hobby is Just playing online games, logo designing.
+Let me introduce you about myself, My name is Unknown: 999+ Years Old from Earth. My hobby is Just playing online games, logo designing.
 
 Other thing you need to know:
 
