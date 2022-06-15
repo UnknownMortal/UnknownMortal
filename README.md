@@ -14,6 +14,11 @@ Other thing you need to know:
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=UnknownMortal&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/UnknownMortal)
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=UnknownMortal)
+
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://profile-counter.glitch.me/UnknownMortal/count.svg" />
+</p>
 # My Stuffs:~
 
 - Termux
