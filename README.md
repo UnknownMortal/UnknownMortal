@@ -16,7 +16,7 @@ Other thing you need to know:
 ![](https://visitor-badge.laobi.icu/badge?page_id=UnknownMortal)
 
 <p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
+    <b>Profile Visitors</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/UnknownMortal/count.svg" />
 </p>
 # My Stuffs:~
